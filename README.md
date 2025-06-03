@@ -4,13 +4,11 @@
 
 🔭 Atualmente trabalhando em:
 - 🧠 Projetos de storytelling com foco em thriller psicológico
-- 🕸️ Desenvolvimento de web apps com **JavaScript**, **React** e **Node.js**
+- 🕸️ Desenvolvimento de web apps com **JavaScript**, **HTML** e **CSS**
 - 🐘 Modelagem e manipulação de dados com **SQL** e **MySQL**
 
 💻 Tecnologias que uso:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-blue)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Python](https://img.shields.io/badge/-Python-3776AB)
 ![Java](https://img.shields.io/badge/-Java-red)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26)
@@ -19,8 +17,6 @@
 
 🌱 Estudando:
 - **Front-end e Back-end** (Rumo ao Full Stack ⚔️)
-- **Estrutura de Dados** e **APIs REST**
-- **TCP/IP e redes**
 - Sistemas complexos com múltiplas camadas
 
 🎧 Sempre com fones no ouvido e ideias fora da caixinha.
