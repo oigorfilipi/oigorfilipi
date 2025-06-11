@@ -1,6 +1,6 @@
 # 👑 Igor Filipi
 
-🎨 Criador de ideias, dev em formação e mestre dos universos paralelos digitais.
+🎨 Criador de ideias, dev Front-End em formação e mestre dos universos paralelos digitais.
 
 🔭 Atualmente trabalhando em:
 - 🧠 Projetos de storytelling com foco em thriller psicológico
@@ -16,8 +16,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032)
 
 🌱 Estudando:
-- **Front-end e Back-end** (Rumo ao Full Stack ⚔️)
-- Sistemas complexos com múltiplas camadas
+- **Front-end**
+- Sistemas mais complexos com múltiplas camadas
 
 🎧 Sempre com fones no ouvido e ideias fora da caixinha.
 
