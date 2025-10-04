@@ -22,6 +22,6 @@
 🎧 Sempre com fones no ouvido e ideias fora da caixinha.
 
 📫 Me encontra em:
-[LinkedIn](https://www.linkedin.com/in/igor-filipi-teixeira-de-oliveira-b44b83352/) • [Instagram](https://www.instagram.com/oigorfilipi) • igor.filipi18@email.com
+[LinkedIn](https://www.linkedin.com/in/igor-filipi-teixeira-de-oliveira-b44b83352/) • [Instagram](https://www.instagram.com/oigorfilipi) • igoreheitior@outlook.com
 
 > “Criar é a forma mais pura de resistir ao ordinário.”
