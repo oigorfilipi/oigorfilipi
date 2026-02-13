@@ -1,27 +1,26 @@
 # 👑 Igor Filipi
 
-🎨 Criador de ideias, dev Front-End em formação e mestre dos universos paralelos digitais.
+🎨 **Desenvolvedor Web & Criador de Soluções**
 
-🔭 Atualmente trabalhando em:
-- 🧠 Projetos de storytelling com foco em thriller psicológico
-- 🕸️ Desenvolvimento de web apps com **JavaScript**, **HTML** e **CSS**
-- 🐘 Modelagem e manipulação de dados com **SQL** e **MySQL**
+Atualmente, estou focado em transformar processos complexos em interfaces intuitivas e funcionais. Meu foco deixou de ser apenas "telas" e passou a ser **arquitetura de sistemas**.
 
-💻 Tecnologias que uso:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Python](https://img.shields.io/badge/-Python-3776AB)
-![Java](https://img.shields.io/badge/-Java-red)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6)
-![Git](https://img.shields.io/badge/-Git-F05032)
+🔭 **Projeto Atual:**
+- ☕ **Sistema de Gestão Integrado (Amiste Café):** Desenvolvendo uma aplicação completa com **React + Supabase**.
+  - *Features:* Controle de acesso (RBAC), Dashboard Financeiro, Geração de PDFs dinâmicos, Estoque em Tempo Real e Design Mobile-First.
 
-🌱 Estudando:
-- **Front-end**
-- Sistemas mais complexos com múltiplas camadas
+💻 **Stack Principal:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-🎧 Sempre com fones no ouvido e ideias fora da caixinha.
+🛠️ **Ferramentas & Interesses:**
+- **Hardware:** Entusiasta de High-End Tech (AMD/Intel Power User).
+- **Design:** Criação de identidades visuais e logos conceituais.
+- **Narrativa:** Storytelling e roteiros de thriller psicológico.
 
-📫 Me encontra em:
-[LinkedIn](https://www.linkedin.com/in/igor-filipi-teixeira-de-oliveira-b44b83352/) • [Instagram](https://www.instagram.com/oigorfilipi) • igoreheitior@outlook.com
+📫 **Conecte-se comigo:**
+[LinkedIn](https://www.linkedin.com/in/igor-filipi-teixeira-de-oliveira-b44b83352/) • [Instagram](https://www.instagram.com/friyl.oficial) • igoreheitior@outlook.com
 
-> “Criar é a forma mais pura de resistir ao ordinário.”
+> "Criar é a forma mais pura de resistir ao ordinário."
